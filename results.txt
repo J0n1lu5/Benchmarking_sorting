@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-DNUD6BA
+Date of Test: 2023-11-30 12:38:31
+Bubble Sort Time: 3.700766 seconds
+Quick Sort Time: 0.012004 seconds
+
