@@ -40,3 +40,4 @@ if __name__ == "__main__":
         file.write(f"Bubble Sort Time: {bubble_sort_time:.6f} seconds\n")
         file.write(f"Quick Sort Time: {quick_sort_time:.6f} seconds\n")
         file.write("\n")
+      
